@@ -1,0 +1,1 @@
+console.log("howdy! codeseek at content_script.js");

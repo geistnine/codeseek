@@ -5,5 +5,11 @@
   "description": "Uses AI to grab text from an image and place it in code",
   "action": {
     "default_popup": "popup.html"
-  }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content_script.js"]
+    }
+  ]
 }
