@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "CodeSeek",
+  "version": "0.1",
+  "default_locale": "en",
+  "description": "Uses AI to grab text from an image and place it in code"
+}
