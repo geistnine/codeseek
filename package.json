@@ -1,0 +1,22 @@
+{
+  "name": "codeseek",
+  "version": "1.0.0",
+  "description": "Chrome extension for generating text from an image",
+  "main": "popup.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geistnine/codeseek.git"
+  },
+  "author": "Steven Geiger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geistnine/codeseek/issues"
+  },
+  "homepage": "https://github.com/geistnine/codeseek#readme",
+  "dependencies": {
+    "chrome-types": "^0.1.166"
+  }
+}
